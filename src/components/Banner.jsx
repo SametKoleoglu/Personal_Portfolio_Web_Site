@@ -69,7 +69,7 @@ const Banner = () => {
         width={250}
         height={250}
         alt="profile"
-        className="rounded-full border-2 p-1 border-blue-400 img_glow"
+        className="rounded-full border-2 p-1 img_glow"
         data-aos="fade-up"
       />
     </div>
